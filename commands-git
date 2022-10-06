@@ -1,0 +1,5 @@
+git clone SSH
+git add --all 
+git commit -m "exemple"
+git push
+ 
