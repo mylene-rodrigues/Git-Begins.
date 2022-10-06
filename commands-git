@@ -3,3 +3,6 @@ git add --all
 git commit -m "exemple"
 git push
 git pull
+git branch
+git checkout nom de la branche
+
